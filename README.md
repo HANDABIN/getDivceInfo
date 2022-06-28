@@ -1,1 +1,1 @@
-#getDivceInfo 
+#etDivceInfo 
